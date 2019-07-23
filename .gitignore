@@ -2,3 +2,7 @@
 node_modules
 .babelrc
 functions.babel.js
+package-lock.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
